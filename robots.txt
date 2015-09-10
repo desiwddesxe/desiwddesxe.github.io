@@ -2,6 +2,6 @@
 
 User-agent: *
 # close
-#Disallow: /
+Disallow: /
 # open
-Disallow:
+#Disallow:
